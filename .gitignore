@@ -170,3 +170,4 @@ cython_debug/
 **/mlruns/** 
 Chapter08/.DS_Store
 Chapter09/.DS_Store
+.idea/
